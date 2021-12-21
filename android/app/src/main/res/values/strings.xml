@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MyTours</string>
+    <string name="title_activity_main">MyTours</string>
+    <string name="package_name">org.example.mytours</string>
+    <string name="custom_url_scheme">org.example.mytours</string>
+</resources>
